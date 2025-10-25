@@ -1,10 +1,13 @@
 ﻿using csharp.arrays;
+using CSharpCodingChallenge;
 
 class Program
 {
     static void Main(string[] args)
     {
-        ReverseArray obj = new ReverseArray();
-        obj.Reverse();
+        //ReverseArray obj = new ReverseArray();
+        //obj.Reverse();
+        Day02_SumOfElements obj = new Day02_SumOfElements();
+        obj.SumOfElements();
     }
 }
