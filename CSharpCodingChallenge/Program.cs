@@ -7,7 +7,9 @@ class Program
     {
         //ReverseArray obj = new ReverseArray();
         //obj.Reverse();
-        Day02_SumOfElements obj = new Day02_SumOfElements();
-        obj.SumOfElements();
+        //Day02_SumOfElements obj = new Day02_SumOfElements();
+        //obj.SumOfElements();
+        ArrayExample obj = new ArrayExample();
+        obj.DisplayArray();
     }
 }
