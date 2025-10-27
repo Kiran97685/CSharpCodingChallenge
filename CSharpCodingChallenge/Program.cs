@@ -9,7 +9,9 @@ class Program
         //obj.Reverse();
         //Day02_SumOfElements obj = new Day02_SumOfElements();
         //obj.SumOfElements();
-        ArrayExample obj = new ArrayExample();
-        obj.DisplayArray();
+        //ArrayExample obj = new ArrayExample();
+        //obj.DisplayArray();
+        ArrayMax obj = new ArrayMax();
+        obj.DisplayMax();
     }
 }
