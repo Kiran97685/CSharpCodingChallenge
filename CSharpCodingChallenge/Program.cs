@@ -11,7 +11,9 @@ class Program
         //obj.SumOfElements();
         //ArrayExample obj = new ArrayExample();
         //obj.DisplayArray();
-        ArrayMax obj = new ArrayMax();
-        obj.DisplayMax();
+        //ArrayMax obj = new ArrayMax();
+        //obj.DisplayMax();
+        ArraySort obj = new ArraySort();
+        obj.DisplaySortedArray();
     }
 }
