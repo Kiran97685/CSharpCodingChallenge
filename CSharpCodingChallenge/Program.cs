@@ -13,7 +13,9 @@ class Program
         //obj.DisplayArray();
         //ArrayMax obj = new ArrayMax();
         //obj.DisplayMax();
-        ArraySort obj = new ArraySort();
-        obj.DisplaySortedArray();
+        //ArraySort obj = new ArraySort();
+        //obj.DisplaySortedArray();
+        ArrayEvenOdd obj = new ArrayEvenOdd();
+        obj.CountEvenOdd();
     }
 }
