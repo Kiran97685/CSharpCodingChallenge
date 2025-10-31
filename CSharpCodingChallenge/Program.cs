@@ -17,7 +17,9 @@ class Program
         //obj.DisplaySortedArray();
         //ArrayEvenOdd obj = new ArrayEvenOdd();
         //obj.CountEvenOdd();
-        ArrayCopy obj = new ArrayCopy();
-        obj.CopyArray();
+        //ArrayCopy obj = new ArrayCopy();
+        //obj.CopyArray();
+        ArraySearch obj = new ArraySearch();
+        obj.SearchNumber();
     }
 }
