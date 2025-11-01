@@ -19,7 +19,9 @@ class Program
         //obj.CountEvenOdd();
         //ArrayCopy obj = new ArrayCopy();
         //obj.CopyArray();
-        ArraySearch obj = new ArraySearch();
-        obj.SearchNumber();
+        //ArraySearch obj = new ArraySearch();
+        //obj.SearchNumber();
+        ArrayFrequency obj = new ArrayFrequency();
+        obj.CountFrequency();
     }
 }
