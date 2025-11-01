@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class ArrayFrequency
+public class Day09_ArrayFrequency
 {
     public void CountFrequency()
     {

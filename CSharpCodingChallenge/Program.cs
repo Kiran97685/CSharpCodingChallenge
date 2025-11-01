@@ -21,7 +21,7 @@ class Program
         //obj.CopyArray();
         //ArraySearch obj = new ArraySearch();
         //obj.SearchNumber();
-        ArrayFrequency obj = new ArrayFrequency();
+        Day09_ArrayFrequency obj = new Day09_ArrayFrequency();
         obj.CountFrequency();
     }
 }
