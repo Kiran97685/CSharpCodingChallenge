@@ -21,7 +21,9 @@ class Program
         //obj.CopyArray();
         //ArraySearch obj = new ArraySearch();
         //obj.SearchNumber();
-        ArrayMerge obj = new ArrayMerge();
-        obj.MergeArrays();
+        //ArrayMerge obj = new ArrayMerge();
+        //obj.MergeArrays();
+        Day11_ArrayUnique obj = new Day11_ArrayUnique();
+        obj.PrintUnique();
     }
 }
