@@ -23,7 +23,9 @@ class Program
         //obj.SearchNumber();
         //ArrayMerge obj = new ArrayMerge();
         //obj.MergeArrays();
-        Day11_ArrayUnique obj = new Day11_ArrayUnique();
-        obj.PrintUnique();
+        //Day11_ArrayUnique obj = new Day11_ArrayUnique();
+        //obj.PrintUnique();
+        Day12_ArrayPosNegNumbers obj = new Day12_ArrayPosNegNumbers();
+        obj.CountPositiveNegative();
     }
 }
