@@ -25,7 +25,9 @@ class Program
         //obj.MergeArrays();
         //Day11_ArrayUnique obj = new Day11_ArrayUnique();
         //obj.PrintUnique();
-        Day12_ArrayPosNegNumbers obj = new Day12_ArrayPosNegNumbers();
-        obj.CountPositiveNegative();
+        //Day12_ArrayPosNegNumbers obj = new Day12_ArrayPosNegNumbers();
+        //obj.CountPositiveNegative();
+        Day13_StringVowels obj = new Day13_StringVowels();
+        obj.PrintVowelNames();
     }
 }
