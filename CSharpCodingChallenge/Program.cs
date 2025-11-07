@@ -29,9 +29,11 @@ class Program
         //obj.CountPositiveNegative();
         /*Day13_StringVowels obj = new Day13_StringVowels();
         obj.PrintVowelNames();*/
-        Day13_StringVowelConsonant obj = new Day13_StringVowelConsonant();
+        /*Day13_StringVowelConsonant obj = new Day13_StringVowelConsonant();
         obj.CountVowelsConsonants();
-
+        Console.ReadLine();*/
+        Day15_StringWordCount obj = new Day15_StringWordCount();
+        obj.CountWords();
         Console.ReadLine();
     }
 }
