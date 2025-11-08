@@ -32,8 +32,11 @@ class Program
         /*Day13_StringVowelConsonant obj = new Day13_StringVowelConsonant();
         obj.CountVowelsConsonants();
         Console.ReadLine();*/
-        Day15_StringWordCount obj = new Day15_StringWordCount();
+        /*Day15_StringWordCount obj = new Day15_StringWordCount();
         obj.CountWords();
+        Console.ReadLine();*/
+        Day16_StringCharFrequency obj = new Day16_StringCharFrequency();
+        obj.CountCharFrequency();
         Console.ReadLine();
     }
 }
