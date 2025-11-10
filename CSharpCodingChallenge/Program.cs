@@ -38,8 +38,11 @@ class Program
         /* Day16_StringCharFrequency obj = new Day16_StringCharFrequency();
          obj.CountCharFrequency();
          Console.ReadLine();*/
-        Day17_StringReverseWords obj = new Day17_StringReverseWords();
+        /*Day17_StringReverseWords obj = new Day17_StringReverseWords();
         obj.ReverseWords();
+        Console.ReadLine();*/
+        Day18_StringDuplicateWords obj = new Day18_StringDuplicateWords();
+        obj.FindDuplicateWords();
         Console.ReadLine();
     }
 }
