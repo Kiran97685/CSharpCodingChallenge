@@ -41,8 +41,11 @@ class Program
         /*Day17_StringReverseWords obj = new Day17_StringReverseWords();
         obj.ReverseWords();
         Console.ReadLine();*/
-        Day18_StringDuplicateWords obj = new Day18_StringDuplicateWords();
+        /*Day18_StringDuplicateWords obj = new Day18_StringDuplicateWords();
         obj.FindDuplicateWords();
+        Console.ReadLine();*/
+        Day21_StringSortByLength obj = new Day21_StringSortByLength();
+        obj.SortWordsByLength();
         Console.ReadLine();
     }
 }
