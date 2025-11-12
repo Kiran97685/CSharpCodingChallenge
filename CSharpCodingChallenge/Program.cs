@@ -44,8 +44,11 @@ class Program
         /*Day18_StringDuplicateWords obj = new Day18_StringDuplicateWords();
         obj.FindDuplicateWords();
         Console.ReadLine();*/
-        Day21_StringSortByLength obj = new Day21_StringSortByLength();
+        /*Day21_StringSortByLength obj = new Day21_StringSortByLength();
         obj.SortWordsByLength();
+        Console.ReadLine();*/
+        Day22_StringGroupByFirstLetter obj = new Day22_StringGroupByFirstLetter();
+        obj.GroupWords();
         Console.ReadLine();
     }
 }
