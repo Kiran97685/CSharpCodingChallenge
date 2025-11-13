@@ -47,8 +47,11 @@ class Program
         /*Day21_StringSortByLength obj = new Day21_StringSortByLength();
         obj.SortWordsByLength();
         Console.ReadLine();*/
-        Day22_StringGroupByFirstLetter obj = new Day22_StringGroupByFirstLetter();
+        /*Day22_StringGroupByFirstLetter obj = new Day22_StringGroupByFirstLetter();
         obj.GroupWords();
+        Console.ReadLine();*/
+        Day23_StringMostRepeatedWord obj = new Day23_StringMostRepeatedWord();
+        obj.FindMostRepeatedWord();
         Console.ReadLine();
     }
 }
