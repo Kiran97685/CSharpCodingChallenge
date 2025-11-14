@@ -50,8 +50,11 @@ class Program
         /*Day22_StringGroupByFirstLetter obj = new Day22_StringGroupByFirstLetter();
         obj.GroupWords();
         Console.ReadLine();*/
-        Day23_StringMostRepeatedWord obj = new Day23_StringMostRepeatedWord();
+        /*Day23_StringMostRepeatedWord obj = new Day23_StringMostRepeatedWord();
         obj.FindMostRepeatedWord();
+        Console.ReadLine();*/
+        Day26_StringPalindromeWords obj = new Day26_StringPalindromeWords();
+        obj.FindPalindromeWords();
         Console.ReadLine();
     }
 }
