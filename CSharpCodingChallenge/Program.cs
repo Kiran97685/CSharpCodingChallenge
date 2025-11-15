@@ -53,8 +53,11 @@ class Program
         /*Day23_StringMostRepeatedWord obj = new Day23_StringMostRepeatedWord();
         obj.FindMostRepeatedWord();
         Console.ReadLine();*/
-        Day26_StringPalindromeWords obj = new Day26_StringPalindromeWords();
+        /*Day26_StringPalindromeWords obj = new Day26_StringPalindromeWords();
         obj.FindPalindromeWords();
+        Console.ReadLine();*/
+        Day27_StringReverseEachWord obj = new Day27_StringReverseEachWord();
+        obj.ReverseEachWord();
         Console.ReadLine();
     }
 }
