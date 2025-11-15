@@ -56,8 +56,11 @@ class Program
         /*Day26_StringPalindromeWords obj = new Day26_StringPalindromeWords();
         obj.FindPalindromeWords();
         Console.ReadLine();*/
-        Day27_StringReverseEachWord obj = new Day27_StringReverseEachWord();
+        /*Day27_StringReverseEachWord obj = new Day27_StringReverseEachWord();
         obj.ReverseEachWord();
+        Console.ReadLine();*/
+        Day24_StringWordsWithDigits obj = new Day24_StringWordsWithDigits();
+        obj.CountWordsWithDigits();
         Console.ReadLine();
     }
 }
