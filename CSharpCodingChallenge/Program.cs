@@ -59,8 +59,10 @@ class Program
         /*Day27_StringReverseEachWord obj = new Day27_StringReverseEachWord();
         obj.ReverseEachWord();
         Console.ReadLine();*/
-        Day24_StringWordsWithDigits obj = new Day24_StringWordsWithDigits();
+        /*Day24_StringWordsWithDigits obj = new Day24_StringWordsWithDigits();
         obj.CountWordsWithDigits();
-        Console.ReadLine();
+        Console.ReadLine();*/
+        Day25_StartsWithLetter obj = new Day25_StartsWithLetter();
+        obj.CountNamesStartingWithLetter();
     }
 }
