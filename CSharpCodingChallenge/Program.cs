@@ -62,7 +62,9 @@ class Program
         /*Day24_StringWordsWithDigits obj = new Day24_StringWordsWithDigits();
         obj.CountWordsWithDigits();
         Console.ReadLine();*/
-        Day25_StartsWithLetter obj = new Day25_StartsWithLetter();
-        obj.CountNamesStartingWithLetter();
+        /*Day25_StartsWithLetter obj = new Day25_StartsWithLetter();
+        obj.CountNamesStartingWithLetter();*/
+        Day26_RemoveDuplicateWords obj = new Day26_RemoveDuplicateWords();
+        obj.RemoveDuplicates();
     }
 }
