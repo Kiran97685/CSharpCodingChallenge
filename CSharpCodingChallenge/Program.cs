@@ -68,7 +68,10 @@ class Program
         obj.RemoveDuplicates();*/
         /* Day27_HighestVowelWord obj = new Day27_HighestVowelWord();
          obj.FindWordWithMostVowels();*/
-        Day28_BooleanArrayCount obj = new Day28_BooleanArrayCount();
-        obj.CountTrueFalse();
+        /*Day28_BooleanArrayCount obj = new Day28_BooleanArrayCount();
+        obj.CountTrueFalse();*/
+        Day29_ArrayPairsSum obj = new Day29_ArrayPairsSum();
+        obj.FindPairsWithSum();
+        Console.ReadLine();
     }
 }
