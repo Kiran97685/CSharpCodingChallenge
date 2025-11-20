@@ -66,7 +66,9 @@ class Program
         obj.CountNamesStartingWithLetter();*/
         /*Day26_RemoveDuplicateWords obj = new Day26_RemoveDuplicateWords();
         obj.RemoveDuplicates();*/
-        Day27_HighestVowelWord obj = new Day27_HighestVowelWord();
-        obj.FindWordWithMostVowels();
+        /* Day27_HighestVowelWord obj = new Day27_HighestVowelWord();
+         obj.FindWordWithMostVowels();*/
+        Day28_BooleanArrayCount obj = new Day28_BooleanArrayCount();
+        obj.CountTrueFalse();
     }
 }
