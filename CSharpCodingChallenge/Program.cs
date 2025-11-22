@@ -70,8 +70,11 @@ class Program
          obj.FindWordWithMostVowels();*/
         /*Day28_BooleanArrayCount obj = new Day28_BooleanArrayCount();
         obj.CountTrueFalse();*/
-        Day29_ArrayPairsSum obj = new Day29_ArrayPairsSum();
+        /* Day29_ArrayPairsSum obj = new Day29_ArrayPairsSum();
         obj.FindPairsWithSum();
+        Console.ReadLine();*/
+        Day30_StringSubstringSearch obj = new Day30_StringSubstringSearch();
+        obj.FindStringsWithSubstring();
         Console.ReadLine();
     }
 }
