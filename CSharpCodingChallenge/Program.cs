@@ -73,8 +73,11 @@ class Program
         /* Day29_ArrayPairsSum obj = new Day29_ArrayPairsSum();
         obj.FindPairsWithSum();
         Console.ReadLine();*/
-        Day30_StringSubstringSearch obj = new Day30_StringSubstringSearch();
+        /*Day30_StringSubstringSearch obj = new Day30_StringSubstringSearch();
         obj.FindStringsWithSubstring();
+        Console.ReadLine();*/
+        Day31_StringAnagrams obj = new Day31_StringAnagrams();
+        obj.FindAnagrams();
         Console.ReadLine();
     }
 }
