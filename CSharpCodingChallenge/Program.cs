@@ -76,8 +76,11 @@ class Program
         /*Day30_StringSubstringSearch obj = new Day30_StringSubstringSearch();
         obj.FindStringsWithSubstring();
         Console.ReadLine();*/
-        Day31_StringAnagrams obj = new Day31_StringAnagrams();
+        /*Day31_StringAnagrams obj = new Day31_StringAnagrams();
         obj.FindAnagrams();
+        Console.ReadLine();*/
+        Day32_DoubleArrayStats obj = new Day32_DoubleArrayStats();
+        obj.CalculateStats();
         Console.ReadLine();
     }
 }
