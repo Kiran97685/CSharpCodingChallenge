@@ -79,8 +79,11 @@ class Program
         /*Day31_StringAnagrams obj = new Day31_StringAnagrams();
         obj.FindAnagrams();
         Console.ReadLine();*/
-        Day32_DoubleArrayStats obj = new Day32_DoubleArrayStats();
+        /*Day32_DoubleArrayStats obj = new Day32_DoubleArrayStats();
         obj.CalculateStats();
+        Console.ReadLine();*/
+        Day33_BooleanStreakCounter obj = new Day33_BooleanStreakCounter();
+        obj.CountTrueStreaks();
         Console.ReadLine();
     }
 }
