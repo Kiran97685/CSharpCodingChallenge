@@ -82,8 +82,11 @@ class Program
         /*Day32_DoubleArrayStats obj = new Day32_DoubleArrayStats();
         obj.CalculateStats();
         Console.ReadLine();*/
-        Day33_BooleanStreakCounter obj = new Day33_BooleanStreakCounter();
+        /*Day33_BooleanStreakCounter obj = new Day33_BooleanStreakCounter();
         obj.CountTrueStreaks();
+        Console.ReadLine();*/
+        Day34_DateTimeArrayAnalysis obj = new Day34_DateTimeArrayAnalysis();
+        obj.AnalyzeDates();
         Console.ReadLine();
     }
 }
