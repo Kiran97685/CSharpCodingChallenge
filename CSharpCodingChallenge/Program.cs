@@ -85,8 +85,11 @@ class Program
         /*Day33_BooleanStreakCounter obj = new Day33_BooleanStreakCounter();
         obj.CountTrueStreaks();
         Console.ReadLine();*/
-        Day34_DateTimeArrayAnalysis obj = new Day34_DateTimeArrayAnalysis();
+        /*Day34_DateTimeArrayAnalysis obj = new Day34_DateTimeArrayAnalysis();
         obj.AnalyzeDates();
+        Console.ReadLine();*/
+        Day35_BooleanLongestTrueSequence obj = new Day35_BooleanLongestTrueSequence();
+        obj.FindLongestTrueSequence();
         Console.ReadLine();
     }
 }
