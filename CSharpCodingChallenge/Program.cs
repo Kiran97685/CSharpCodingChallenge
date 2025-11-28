@@ -88,8 +88,11 @@ class Program
         /*Day34_DateTimeArrayAnalysis obj = new Day34_DateTimeArrayAnalysis();
         obj.AnalyzeDates();
         Console.ReadLine();*/
-        Day35_BooleanLongestTrueSequence obj = new Day35_BooleanLongestTrueSequence();
+        /*Day35_BooleanLongestTrueSequence obj = new Day35_BooleanLongestTrueSequence();
         obj.FindLongestTrueSequence();
+        Console.ReadLine();*/
+        Day36_JaggedArrayRowMax obj = new Day36_JaggedArrayRowMax();
+        obj.FindRowWithMaxSum();
         Console.ReadLine();
     }
 }
