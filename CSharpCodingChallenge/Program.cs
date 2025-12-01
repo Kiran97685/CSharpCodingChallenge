@@ -97,8 +97,11 @@ class Program
         /*Day37_TupleArrayHighestSalary obj = new Day37_TupleArrayHighestSalary();
         obj.FindHighestPaidEmployee();
         Console.ReadLine();*/
-        Day38_ArrayOfDictionaries obj = new Day38_ArrayOfDictionaries();
+        /*Day38_ArrayOfDictionaries obj = new Day38_ArrayOfDictionaries();
         obj.FindHighestValueDictionary();
+        Console.ReadLine();*/
+        Day39_ArrayOfDictionaries obj = new Day39_ArrayOfDictionaries();
+        obj.MergeWordFrequencies();
         Console.ReadLine();
     }
 }
