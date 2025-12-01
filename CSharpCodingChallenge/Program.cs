@@ -100,8 +100,11 @@ class Program
         /*Day38_ArrayOfDictionaries obj = new Day38_ArrayOfDictionaries();
         obj.FindHighestValueDictionary();
         Console.ReadLine();*/
-        Day39_ArrayOfDictionaries obj = new Day39_ArrayOfDictionaries();
+        /*Day39_ArrayOfDictionaries obj = new Day39_ArrayOfDictionaries();
         obj.MergeWordFrequencies();
+        Console.ReadLine();*/
+        Day40_TupleGPSDistance obj = new Day40_TupleGPSDistance();
+        obj.FarthestDistance();
         Console.ReadLine();
     }
 }
