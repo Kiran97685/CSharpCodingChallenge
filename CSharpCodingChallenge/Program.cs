@@ -103,8 +103,11 @@ class Program
         /*Day39_ArrayOfDictionaries obj = new Day39_ArrayOfDictionaries();
         obj.MergeWordFrequencies();
         Console.ReadLine();*/
-        Day40_TupleGPSDistance obj = new Day40_TupleGPSDistance();
+        /*Day40_TupleGPSDistance obj = new Day40_TupleGPSDistance();
         obj.FarthestDistance();
+        Console.ReadLine();*/
+        Day41_TupleBankTransactions obj = new Day41_TupleBankTransactions();
+        obj.AnalyzeBankTransactions();
         Console.ReadLine();
     }
 }
