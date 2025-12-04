@@ -106,8 +106,11 @@ class Program
         /*Day40_TupleGPSDistance obj = new Day40_TupleGPSDistance();
         obj.FarthestDistance();
         Console.ReadLine();*/
-        Day41_TupleBankTransactions obj = new Day41_TupleBankTransactions();
+        /*Day41_TupleBankTransactions obj = new Day41_TupleBankTransactions();
         obj.AnalyzeBankTransactions();
+        Console.ReadLine();*/
+        Day42_BooleanGridAnalysis obj = new Day42_BooleanGridAnalysis();
+        obj.AnalyzeGrid();
         Console.ReadLine();
     }
 }
