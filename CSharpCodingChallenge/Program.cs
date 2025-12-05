@@ -109,8 +109,11 @@ class Program
         /*Day41_TupleBankTransactions obj = new Day41_TupleBankTransactions();
         obj.AnalyzeBankTransactions();
         Console.ReadLine();*/
-        Day42_BooleanGridAnalysis obj = new Day42_BooleanGridAnalysis();
+        /*Day42_BooleanGridAnalysis obj = new Day42_BooleanGridAnalysis();
         obj.AnalyzeGrid();
+        Console.ReadLine();*/
+        Day43_DateTimeArrayLongestGap obj = new Day43_DateTimeArrayLongestGap();
+        obj.FindLongestGap();
         Console.ReadLine();
     }
 }
