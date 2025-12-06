@@ -112,8 +112,11 @@ class Program
         /*Day42_BooleanGridAnalysis obj = new Day42_BooleanGridAnalysis();
         obj.AnalyzeGrid();
         Console.ReadLine();*/
-        Day43_DateTimeArrayLongestGap obj = new Day43_DateTimeArrayLongestGap();
+        /*Day43_DateTimeArrayLongestGap obj = new Day43_DateTimeArrayLongestGap();
         obj.FindLongestGap();
+        Console.ReadLine();*/
+        Day44_StructProduct obj = new Day44_StructProduct();
+        obj.HighestPricePerUnit();
         Console.ReadLine();
     }
 }
