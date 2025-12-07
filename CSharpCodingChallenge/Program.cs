@@ -115,8 +115,11 @@ class Program
         /*Day43_DateTimeArrayLongestGap obj = new Day43_DateTimeArrayLongestGap();
         obj.FindLongestGap();
         Console.ReadLine();*/
-        Day44_StructProduct obj = new Day44_StructProduct();
+        /*Day44_StructProduct obj = new Day44_StructProduct();
         obj.HighestPricePerUnit();
+        Console.ReadLine();*/
+        Day45_EnumArrayDays obj = new Day45_EnumArrayDays();
+        obj.CountWeekdaysWeekends();
         Console.ReadLine();
     }
 }
