@@ -118,8 +118,11 @@ class Program
         /*Day44_StructProduct obj = new Day44_StructProduct();
         obj.HighestPricePerUnit();
         Console.ReadLine();*/
-        Day45_EnumArrayDays obj = new Day45_EnumArrayDays();
+        /*Day45_EnumArrayDays obj = new Day45_EnumArrayDays();
         obj.CountWeekdaysWeekends();
+        Console.ReadLine();*/
+        Day46_TimeSpanDurations obj = new Day46_TimeSpanDurations();
+        obj.AnalyzeDurations();
         Console.ReadLine();
     }
 }
