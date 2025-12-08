@@ -121,8 +121,11 @@ class Program
         /*Day45_EnumArrayDays obj = new Day45_EnumArrayDays();
         obj.CountWeekdaysWeekends();
         Console.ReadLine();*/
-        Day46_TimeSpanDurations obj = new Day46_TimeSpanDurations();
+        /*Day46_TimeSpanDurations obj = new Day46_TimeSpanDurations();
         obj.AnalyzeDurations();
+        Console.ReadLine();*/
+        Day47_StructCarSpeed obj = new Day47_StructCarSpeed();
+        obj.FindFastestCar();
         Console.ReadLine();
     }
 }
