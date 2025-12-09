@@ -124,8 +124,11 @@ class Program
         /*Day46_TimeSpanDurations obj = new Day46_TimeSpanDurations();
         obj.AnalyzeDurations();
         Console.ReadLine();*/
-        Day47_StructCarSpeed obj = new Day47_StructCarSpeed();
+        /*Day47_StructCarSpeed obj = new Day47_StructCarSpeed();
         obj.FindFastestCar();
+        Console.ReadLine();*/
+        Day48_StructInventory obj = new Day48_StructInventory();
+        obj.CalculateInventoryValue();
         Console.ReadLine();
     }
 }
