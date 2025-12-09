@@ -127,7 +127,7 @@ class Program
         /*Day47_StructCarSpeed obj = new Day47_StructCarSpeed();
         obj.FindFastestCar();
         Console.ReadLine();*/
-        Day48_StructInventory obj = new Day48_StructInventory();
+        Day48_StructInventoryArray obj = new Day48_StructInventoryArray();
         obj.CalculateInventoryValue();
         Console.ReadLine();
     }
