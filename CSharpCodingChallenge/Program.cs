@@ -130,8 +130,11 @@ class Program
         /*Day48_StructInventoryArray obj = new Day48_StructInventoryArray();
         obj.CalculateInventoryValue();
         Console.ReadLine();*/
-        Day49_CompoundInterestArray obj = new Day49_CompoundInterestArray();
+        /*Day49_CompoundInterestArray obj = new Day49_CompoundInterestArray();
         obj.CalculateCompoundInterest();
+        Console.ReadLine();*/
+        Day50_ExpenseAnalysis obj = new Day50_ExpenseAnalysis();
+        obj.AnalyzeExpenses();
         Console.ReadLine();
     }
 }
