@@ -133,8 +133,11 @@ class Program
         /*Day49_CompoundInterestArray obj = new Day49_CompoundInterestArray();
         obj.CalculateCompoundInterest();
         Console.ReadLine();*/
-        Day50_ExpenseAnalysis obj = new Day50_ExpenseAnalysis();
+        /*Day50_ExpenseAnalysis obj = new Day50_ExpenseAnalysis();
         obj.AnalyzeExpenses();
+        Console.ReadLine();*/
+        Day51_EnumArrayOrderStatus obj = new Day51_EnumArrayOrderStatus();
+        obj.AnalyzeOrderStatus();
         Console.ReadLine();
     }
 }
