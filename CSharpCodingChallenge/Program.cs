@@ -136,8 +136,11 @@ class Program
         /*Day50_ExpenseAnalysis obj = new Day50_ExpenseAnalysis();
         obj.AnalyzeExpenses();
         Console.ReadLine();*/
-        Day51_EnumArrayOrderStatus obj = new Day51_EnumArrayOrderStatus();
+        /*Day51_EnumArrayOrderStatus obj = new Day51_EnumArrayOrderStatus();
         obj.AnalyzeOrderStatus();
+        Console.ReadLine();*/
+        Day52_DateTimeArrayGap obj = new Day52_DateTimeArrayGap();
+        obj.FindLongestGap();
         Console.ReadLine();
     }
 }
