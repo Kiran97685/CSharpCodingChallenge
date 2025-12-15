@@ -139,8 +139,11 @@ class Program
         /*Day51_EnumArrayOrderStatus obj = new Day51_EnumArrayOrderStatus();
         obj.AnalyzeOrderStatus();
         Console.ReadLine();*/
-        Day52_DateTimeArrayGap obj = new Day52_DateTimeArrayGap();
+        /*Day52_DateTimeArrayGap obj = new Day52_DateTimeArrayGap();
         obj.FindLongestGap();
+        Console.ReadLine();*/
+        Day53_FloatArraySensorSpike obj = new Day53_FloatArraySensorSpike();
+        obj.DetectSpikes();
         Console.ReadLine();
     }
 }
