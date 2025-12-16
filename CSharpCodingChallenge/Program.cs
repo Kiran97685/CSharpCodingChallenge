@@ -142,8 +142,11 @@ class Program
         /*Day52_DateTimeArrayGap obj = new Day52_DateTimeArrayGap();
         obj.FindLongestGap();
         Console.ReadLine();*/
-        Day53_FloatArraySensorSpike obj = new Day53_FloatArraySensorSpike();
+       /* Day53_FloatArraySensorSpike obj = new Day53_FloatArraySensorSpike();
         obj.DetectSpikes();
+        Console.ReadLine();*/
+        Day54_FloatArrayNormalization obj = new Day54_FloatArrayNormalization();
+        obj.NormalizeReadings();
         Console.ReadLine();
     }
 }
