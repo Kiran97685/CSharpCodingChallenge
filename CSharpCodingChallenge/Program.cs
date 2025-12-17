@@ -148,8 +148,11 @@ class Program
         /*Day54_FloatArrayNormalization obj = new Day54_FloatArrayNormalization();
         obj.NormalizeReadings();
         Console.ReadLine();*/
-        Day55_FloatTrendDetection obj = new Day55_FloatTrendDetection();
+        /*Day55_FloatTrendDetection obj = new Day55_FloatTrendDetection();
         obj.DetectTrendChanges();
+        Console.ReadLine();*/
+        Day56_DateTimeArrayMinMax obj = new Day56_DateTimeArrayMinMax();
+        obj.FindEarliestAndLatestDate();
         Console.ReadLine();
     }
 }
