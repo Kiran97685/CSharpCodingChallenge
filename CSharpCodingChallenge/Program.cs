@@ -151,8 +151,11 @@ class Program
         /*Day55_FloatTrendDetection obj = new Day55_FloatTrendDetection();
         obj.DetectTrendChanges();
         Console.ReadLine();*/
-        Day56_DateTimeArrayMinMax obj = new Day56_DateTimeArrayMinMax();
+        /*Day56_DateTimeArrayMinMax obj = new Day56_DateTimeArrayMinMax();
         obj.FindEarliestAndLatestDate();
+        Console.ReadLine();*/
+        Day57_DecimalMaxProfit obj = new Day57_DecimalMaxProfit();
+        obj.CalculateMaxProfit();
         Console.ReadLine();
     }
 }
