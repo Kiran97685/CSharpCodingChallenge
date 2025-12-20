@@ -154,8 +154,11 @@ class Program
         /*Day56_DateTimeArrayMinMax obj = new Day56_DateTimeArrayMinMax();
         obj.FindEarliestAndLatestDate();
         Console.ReadLine();*/
-        Day57_DecimalMaxProfit obj = new Day57_DecimalMaxProfit();
+        /*Day57_DecimalMaxProfit obj = new Day57_DecimalMaxProfit();
         obj.CalculateMaxProfit();
+        Console.ReadLine();*/
+        Day58_ObjectArrayTypeCounter obj = new Day58_ObjectArrayTypeCounter();
+        obj.CountObjectTypes();
         Console.ReadLine();
     }
 }
