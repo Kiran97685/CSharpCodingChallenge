@@ -157,8 +157,11 @@ class Program
         /*Day57_DecimalMaxProfit obj = new Day57_DecimalMaxProfit();
         obj.CalculateMaxProfit();
         Console.ReadLine();*/
-        Day58_ObjectArrayTypeCounter obj = new Day58_ObjectArrayTypeCounter();
+        /*Day58_ObjectArrayTypeCounter obj = new Day58_ObjectArrayTypeCounter();
         obj.CountObjectTypes();
+        Console.ReadLine();*/
+        Day59_DecimalPriceTrend obj = new Day59_DecimalPriceTrend();
+        obj.AnalyzePriceTrend();
         Console.ReadLine();
     }
 }
