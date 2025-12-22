@@ -160,8 +160,11 @@ class Program
         /*Day58_ObjectArrayTypeCounter obj = new Day58_ObjectArrayTypeCounter();
         obj.CountObjectTypes();
         Console.ReadLine();*/
-        Day59_DecimalPriceTrend obj = new Day59_DecimalPriceTrend();
+        /*Day59_DecimalPriceTrend obj = new Day59_DecimalPriceTrend();
         obj.AnalyzePriceTrend();
+        Console.ReadLine();*/
+        Day60_StructArrayBooks obj = new Day60_StructArrayBooks();
+        obj.AnalyzeBooks();
         Console.ReadLine();
     }
 }
