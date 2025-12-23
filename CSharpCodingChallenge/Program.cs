@@ -163,8 +163,11 @@ class Program
         /*Day59_DecimalPriceTrend obj = new Day59_DecimalPriceTrend();
         obj.AnalyzePriceTrend();
         Console.ReadLine();*/
-        Day60_StructArrayBooks obj = new Day60_StructArrayBooks();
+        /*Day60_StructArrayBooks obj = new Day60_StructArrayBooks();
         obj.AnalyzeBooks();
+        Console.ReadLine();*/
+        Day61_StructSensorAnalysis obj = new Day61_StructSensorAnalysis();
+        obj.AnalyzeSensors();
         Console.ReadLine();
     }
 }
