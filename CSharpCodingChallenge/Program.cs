@@ -169,8 +169,11 @@ class Program
         /*Day61_StructSensorAnalysis obj = new Day61_StructSensorAnalysis();
         obj.AnalyzeSensors();
         Console.ReadLine();*/
-        Day62_GuidArrayDuplicateCheck obj = new Day62_GuidArrayDuplicateCheck();
+        /*Day62_GuidArrayDuplicateCheck obj = new Day62_GuidArrayDuplicateCheck();
         obj.FindDuplicateGuids();
+        Console.ReadLine();*/
+        Day63_RotateMatrix obj = new Day63_RotateMatrix();
+        obj.RotateMatrix();
         Console.ReadLine();
     }
 }
