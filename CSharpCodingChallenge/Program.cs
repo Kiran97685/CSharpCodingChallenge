@@ -172,8 +172,11 @@ class Program
         /*Day62_GuidArrayDuplicateCheck obj = new Day62_GuidArrayDuplicateCheck();
         obj.FindDuplicateGuids();
         Console.ReadLine();*/
-        Day63_RotateMatrix obj = new Day63_RotateMatrix();
+        /*Day63_RotateMatrix obj = new Day63_RotateMatrix();
         obj.RotateMatrix();
+        Console.ReadLine();*/
+        Day64_MatrixMultiplication obj = new Day64_MatrixMultiplication();
+        obj.MultiplyMatrices();
         Console.ReadLine();
     }
 }
