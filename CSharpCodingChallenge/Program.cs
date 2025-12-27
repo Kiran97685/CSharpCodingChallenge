@@ -175,8 +175,11 @@ class Program
         /*Day63_RotateMatrix obj = new Day63_RotateMatrix();
         obj.RotateMatrix();
         Console.ReadLine();*/
-        Day64_MatrixMultiplication obj = new Day64_MatrixMultiplication();
+        /*Day64_MatrixMultiplication obj = new Day64_MatrixMultiplication();
         obj.MultiplyMatrices();
+        Console.ReadLine();*/
+        Day65_ArraySpiralOrder obj = new Day65_ArraySpiralOrder();
+        obj.PrintSpiral();
         Console.ReadLine();
     }
 }
