@@ -178,8 +178,11 @@ class Program
         /*Day64_MatrixMultiplication obj = new Day64_MatrixMultiplication();
         obj.MultiplyMatrices();
         Console.ReadLine();*/
-        Day65_ArraySpiralOrder obj = new Day65_ArraySpiralOrder();
+        /*Day65_ArraySpiralOrder obj = new Day65_ArraySpiralOrder();
         obj.PrintSpiral();
+        Console.ReadLine();*/
+        Day66_MatrixTransposeSymmetry obj = new Day66_MatrixTransposeSymmetry();
+        obj.CheckMatrixSymmetry();
         Console.ReadLine();
     }
 }
