@@ -181,8 +181,11 @@ class Program
         /*Day65_ArraySpiralOrder obj = new Day65_ArraySpiralOrder();
         obj.PrintSpiral();
         Console.ReadLine();*/
-        Day66_MatrixTransposeSymmetry obj = new Day66_MatrixTransposeSymmetry();
+        /*Day66_MatrixTransposeSymmetry obj = new Day66_MatrixTransposeSymmetry();
         obj.CheckMatrixSymmetry();
+        Console.ReadLine();*/
+        Day67_CityDensityAnalysis obj = new Day67_CityDensityAnalysis();
+        obj.FindHighestDensityCity();
         Console.ReadLine();
     }
 }
