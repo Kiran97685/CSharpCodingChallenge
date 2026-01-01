@@ -190,8 +190,11 @@ class Program
         /*Day68_ArrayAnagramGroups obj = new Day68_ArrayAnagramGroups();
         obj.GroupAnagrams();
         Console.ReadLine();*/
-        Day69_MaxSubArray obj = new Day69_MaxSubArray();
+        /*Day69_MaxSubArray obj = new Day69_MaxSubArray();
         obj.FindMaxSubArray();
+        Console.ReadLine();*/
+        Day70_ArrayObjectSort obj = new Day70_ArrayObjectSort();
+        obj.SortBooksByPages();
         Console.ReadLine();
     }
 }
