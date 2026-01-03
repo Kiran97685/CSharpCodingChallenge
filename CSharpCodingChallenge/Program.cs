@@ -196,8 +196,11 @@ class Program
         /*Day70_ArrayObjectSort obj = new Day70_ArrayObjectSort();
         obj.SortBooksByPages();
         Console.ReadLine();*/
-        Day71_LongestIncreasingSubsequence obj = new Day71_LongestIncreasingSubsequence();
+        /*Day71_LongestIncreasingSubsequence obj = new Day71_LongestIncreasingSubsequence();
         obj.FindLIS();
+        Console.ReadLine();*/
+        Day72_CompressArray obj = new Day72_CompressArray();
+        obj.Compress();
         Console.ReadLine();
     }
 }
