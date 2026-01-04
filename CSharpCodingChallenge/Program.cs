@@ -199,8 +199,11 @@ class Program
         /*Day71_LongestIncreasingSubsequence obj = new Day71_LongestIncreasingSubsequence();
         obj.FindLIS();
         Console.ReadLine();*/
-        Day72_CompressArray obj = new Day72_CompressArray();
+        /*Day72_CompressArray obj = new Day72_CompressArray();
         obj.Compress();
+        Console.ReadLine();*/
+        Day73_RotateArrayRight obj = new Day73_RotateArrayRight();
+        obj.RotateRight();
         Console.ReadLine();
     }
 }
