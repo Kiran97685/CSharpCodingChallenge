@@ -202,8 +202,11 @@ class Program
         /*Day72_CompressArray obj = new Day72_CompressArray();
         obj.Compress();
         Console.ReadLine();*/
-        Day73_RotateArrayRight obj = new Day73_RotateArrayRight();
+        /*Day73_RotateArrayRight obj = new Day73_RotateArrayRight();
         obj.RotateRight();
+        Console.ReadLine();*/
+        Day74_MajorityElement obj = new Day74_MajorityElement();
+        obj.FindMajority();
         Console.ReadLine();
     }
 }
