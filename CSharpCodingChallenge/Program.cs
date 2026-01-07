@@ -208,8 +208,11 @@ class Program
         /*Day74_MajorityElement obj = new Day74_MajorityElement();
         obj.FindMajority();
         Console.ReadLine();*/
-        Day75_AlternatePosNeg obj = new Day75_AlternatePosNeg();
+        /*Day75_AlternatePosNeg obj = new Day75_AlternatePosNeg();
         obj.Rearrange();
+        Console.ReadLine();*/
+        Day76_FirstMissingPositive obj = new Day76_FirstMissingPositive();
+        obj.FindMissing();
         Console.ReadLine();
     }
 }
