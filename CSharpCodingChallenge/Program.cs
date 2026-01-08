@@ -211,8 +211,11 @@ class Program
         /*Day75_AlternatePosNeg obj = new Day75_AlternatePosNeg();
         obj.Rearrange();
         Console.ReadLine();*/
-        Day76_FirstMissingPositive obj = new Day76_FirstMissingPositive();
+        /*Day76_FirstMissingPositive obj = new Day76_FirstMissingPositive();
         obj.FindMissing();
+        Console.ReadLine();*/
+        Day77_KthSmallestQuickSelect obj = new Day77_KthSmallestQuickSelect();
+        obj.FindKthSmallest();
         Console.ReadLine();
     }
 }
