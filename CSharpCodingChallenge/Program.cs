@@ -214,8 +214,11 @@ class Program
         /*Day76_FirstMissingPositive obj = new Day76_FirstMissingPositive();
         obj.FindMissing();
         Console.ReadLine();*/
-        Day77_KthSmallestQuickSelect obj = new Day77_KthSmallestQuickSelect();
+        /*Day77_KthSmallestQuickSelect obj = new Day77_KthSmallestQuickSelect();
         obj.FindKthSmallest();
+        Console.ReadLine();*/
+        Day78_LongestConsecutiveSequence obj = new Day78_LongestConsecutiveSequence();
+        obj.FindLongestSequence();
         Console.ReadLine();
     }
 }
