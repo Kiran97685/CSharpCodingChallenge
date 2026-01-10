@@ -217,8 +217,11 @@ class Program
         /*Day77_KthSmallestQuickSelect obj = new Day77_KthSmallestQuickSelect();
         obj.FindKthSmallest();
         Console.ReadLine();*/
-        Day78_LongestConsecutiveSequence obj = new Day78_LongestConsecutiveSequence();
+        /*Day78_LongestConsecutiveSequence obj = new Day78_LongestConsecutiveSequence();
         obj.FindLongestSequence();
+        Console.ReadLine();*/
+        Day79_PrefixSumRangeQuery obj = new Day79_PrefixSumRangeQuery();
+        obj.RangeSum();
         Console.ReadLine();
     }
 }
