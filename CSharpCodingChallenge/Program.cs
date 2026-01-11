@@ -220,8 +220,11 @@ class Program
         /*Day78_LongestConsecutiveSequence obj = new Day78_LongestConsecutiveSequence();
         obj.FindLongestSequence();
         Console.ReadLine();*/
-        Day79_PrefixSumRangeQuery obj = new Day79_PrefixSumRangeQuery();
+        /*Day79_PrefixSumRangeQuery obj = new Day79_PrefixSumRangeQuery();
         obj.RangeSum();
+        Console.ReadLine();*/
+        Day80_TrappingRainWater obj = new Day80_TrappingRainWater();
+        obj.CalculateTrappedWater();
         Console.ReadLine();
     }
 }
