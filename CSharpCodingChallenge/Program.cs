@@ -223,8 +223,11 @@ class Program
         /*Day79_PrefixSumRangeQuery obj = new Day79_PrefixSumRangeQuery();
         obj.RangeSum();
         Console.ReadLine();*/
-        Day80_TrappingRainWater obj = new Day80_TrappingRainWater();
+        /*Day80_TrappingRainWater obj = new Day80_TrappingRainWater();
         obj.CalculateTrappedWater();
+        Console.ReadLine();*/
+        Day81EquilibriumIndex obj = new Day81_EquilibriumIndex();
+        obj.FindEquilibrium();
         Console.ReadLine();
     }
 }
