@@ -2,7 +2,7 @@
 
 namespace CSharpCodingChallenge
 {
-    internal class Day80_EquilibriumIndex
+    internal class Day81_EquilibriumIndex
     {
         public void FindEquilibrium()
         {

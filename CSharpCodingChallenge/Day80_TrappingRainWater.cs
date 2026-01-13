@@ -2,7 +2,7 @@
 
 namespace CSharpCodingChallenge
 {
-    internal class Day81TrappingRainWater
+    internal class Day80_TrappingRainWater
     {
         public void CalculateTrappedWater()
         {
