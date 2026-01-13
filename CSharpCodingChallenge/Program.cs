@@ -226,7 +226,7 @@ class Program
         /*Day80_TrappingRainWater obj = new Day80_TrappingRainWater();
         obj.CalculateTrappedWater();
         Console.ReadLine();*/
-        Day81EquilibriumIndex obj = new Day81_EquilibriumIndex();
+        Day81_EquilibriumIndex obj = new Day81_EquilibriumIndex();
         obj.FindEquilibrium();
         Console.ReadLine();
     }
