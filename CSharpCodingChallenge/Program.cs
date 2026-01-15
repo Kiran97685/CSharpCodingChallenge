@@ -232,8 +232,11 @@ class Program
         /*Day82_MinJumpsToEnd obj = new Day82_MinJumpsToEnd();
         obj.FindMinJumps();
         Console.ReadLine();*/
-        Day83_ContainerWithMostWater obj = new Day83_ContainerWithMostWater();
+        /*Day83_ContainerWithMostWater obj = new Day83_ContainerWithMostWater();
         obj.FindMaxWater();
+        Console.ReadLine();*/
+        Day84_NextGreaterElement obj = new Day84_NextGreaterElement();
+        obj.FindNextGreater();
         Console.ReadLine();
     }
 }
