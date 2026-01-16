@@ -235,8 +235,11 @@ class Program
         /*Day83_ContainerWithMostWater obj = new Day83_ContainerWithMostWater();
         obj.FindMaxWater();
         Console.ReadLine();*/
-        Day84_NextGreaterElement obj = new Day84_NextGreaterElement();
+        /*Day84_NextGreaterElement obj = new Day84_NextGreaterElement();
         obj.FindNextGreater();
+        Console.ReadLine();*/
+        Day85_PeakElement obj = new Day85_PeakElement();
+        obj.FindPeak();
         Console.ReadLine();
     }
 }
