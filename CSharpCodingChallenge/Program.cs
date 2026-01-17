@@ -238,8 +238,11 @@ class Program
         /*Day84_NextGreaterElement obj = new Day84_NextGreaterElement();
         obj.FindNextGreater();
         Console.ReadLine();*/
-        Day85_PeakElement obj = new Day85_PeakElement();
+        /*Day85_PeakElement obj = new Day85_PeakElement();
         obj.FindPeak();
+        Console.ReadLine();*/
+        Day86_ArrayRightRotation obj = new Day86_ArrayRightRotation();
+        obj.RotateArray();
         Console.ReadLine();
     }
 }
