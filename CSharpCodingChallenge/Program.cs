@@ -241,8 +241,11 @@ class Program
         /*Day85_PeakElement obj = new Day85_PeakElement();
         obj.FindPeak();
         Console.ReadLine();*/
-        Day86_ArrayRightRotation obj = new Day86_ArrayRightRotation();
+        /*Day86_ArrayRightRotation obj = new Day86_ArrayRightRotation();
         obj.RotateArray();
+        Console.ReadLine();*/
+        Day87_MaxSumSubarray obj = new Day87_MaxSumSubarray();
+        obj.FindMaxSum();
         Console.ReadLine();
     }
 }
