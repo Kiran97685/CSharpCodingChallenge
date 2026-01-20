@@ -247,8 +247,11 @@ class Program
         /*Day87_MaxSumSubarray obj = new Day87_MaxSumSubarray();
         obj.FindMaxSum();
         Console.ReadLine();*/
-        Day88_FindPeakElement obj = new Day88_FindPeakElement();
+        /*Day88_FindPeakElement obj = new Day88_FindPeakElement();
         obj.FindPeak();
+        Console.ReadLine();*/
+        Day89_RemoveDuplicatesSortedArray obj = new Day89_RemoveDuplicatesSortedArray();
+        obj.RemoveDuplicates();
         Console.ReadLine();
     }
 }
