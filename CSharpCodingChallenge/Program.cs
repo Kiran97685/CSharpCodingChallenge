@@ -250,8 +250,11 @@ class Program
         /*Day88_FindPeakElement obj = new Day88_FindPeakElement();
         obj.FindPeak();
         Console.ReadLine();*/
-        Day89_RemoveDuplicatesSortedArray obj = new Day89_RemoveDuplicatesSortedArray();
+        /*Day89_RemoveDuplicatesSortedArray obj = new Day89_RemoveDuplicatesSortedArray();
         obj.RemoveDuplicates();
+        Console.ReadLine();*/
+        Day90_FindMissingNumber obj = new Day90_FindMissingNumber();
+        obj.FindMissing();
         Console.ReadLine();
     }
 }
