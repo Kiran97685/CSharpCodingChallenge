@@ -256,8 +256,11 @@ class Program
         /*Day90_FindMissingNumber obj = new Day90_FindMissingNumber();
         obj.FindMissing();
         Console.ReadLine();*/
-        Day91_MaxCircularSubarraySum obj = new Day91_MaxCircularSubarraySum();
+        /*Day91_MaxCircularSubarraySum obj = new Day91_MaxCircularSubarraySum();
         obj.FindMaxCircularSum();
+        Console.ReadLine();*/
+        Day92_LongestBitonicSubarray obj = new Day92_LongestBitonicSubarray();
+        obj.FindLongestBitonic();
         Console.ReadLine();
     }
 }
