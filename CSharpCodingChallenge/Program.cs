@@ -259,8 +259,11 @@ class Program
         /*Day91_MaxCircularSubarraySum obj = new Day91_MaxCircularSubarraySum();
         obj.FindMaxCircularSum();
         Console.ReadLine();*/
-        Day92_LongestBitonicSubarray obj = new Day92_LongestBitonicSubarray();
+        /*Day92_LongestBitonicSubarray obj = new Day92_LongestBitonicSubarray();
         obj.FindLongestBitonic();
+        Console.ReadLine();*/
+        Day93_FirstRepeatingElement obj = new Day93_FirstRepeatingElement();
+        obj.FindFirstRepeating();
         Console.ReadLine();
     }
 }
