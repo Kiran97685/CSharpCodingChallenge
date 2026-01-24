@@ -262,8 +262,5 @@ class Program
         /*Day92_LongestBitonicSubarray obj = new Day92_LongestBitonicSubarray();
         obj.FindLongestBitonic();
         Console.ReadLine();*/
-        Day93_LongestConsecutiveSubarray obj = new Day93_LongestConsecutiveSubarray();
-        obj.FindLongestConsecutive();
-        Console.ReadLine();
     }
 }
