@@ -2,7 +2,7 @@
 
 namespace CSharpCodingChallenge
 {
-    internal class Day93_LongestUniqueSubstring
+    internal class Day94_LongestUniqueSubstring
     {
         public void FindLongestUniqueSubstring()
         {

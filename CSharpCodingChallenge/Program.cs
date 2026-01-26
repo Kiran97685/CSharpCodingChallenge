@@ -262,7 +262,10 @@ class Program
         /*Day92_LongestBitonicSubarray obj = new Day92_LongestBitonicSubarray();
         obj.FindLongestBitonic();
         Console.ReadLine();*/
-        Day93_LongestUniqueSubstring obj = new Day93_LongestUniqueSubstring();
+        /*Day93_FirstRepeatingElement obj = new Day93_FirstRepeatingElement();
+        obj.FindFirstRepeating();
+        Console.ReadLine();*/
+        Day94_LongestUniqueSubstring obj = new Day94_LongestUniqueSubstring();
         obj.FindLongestUniqueSubstring();
         Console.ReadLine();
     }
