@@ -265,8 +265,11 @@ class Program
         /*Day93_FirstRepeatingElement obj = new Day93_FirstRepeatingElement();
         obj.FindFirstRepeating();
         Console.ReadLine();*/
-        Day94_LongestUniqueSubstring obj = new Day94_LongestUniqueSubstring();
+        /*Day94_LongestUniqueSubstring obj = new Day94_LongestUniqueSubstring();
         obj.FindLongestUniqueSubstring();
+        Console.ReadLine();*/
+        Day95_IsomorphicStrings obj = new Day95_IsomorphicStrings();
+        obj.CheckIsomorphic();
         Console.ReadLine();
     }
 }
