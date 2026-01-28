@@ -268,8 +268,11 @@ class Program
         /*Day94_LongestUniqueSubstring obj = new Day94_LongestUniqueSubstring();
         obj.FindLongestUniqueSubstring();
         Console.ReadLine();*/
-        Day95_IsomorphicStrings obj = new Day95_IsomorphicStrings();
+        /*Day95_IsomorphicStrings obj = new Day95_IsomorphicStrings();
         obj.CheckIsomorphic();
+        Console.ReadLine();*/
+        Day96_StringCompression obj = new Day96_StringCompression();
+        obj.CompressString();
         Console.ReadLine();
     }
 }
