@@ -271,8 +271,11 @@ class Program
         /*Day95_IsomorphicStrings obj = new Day95_IsomorphicStrings();
         obj.CheckIsomorphic();
         Console.ReadLine();*/
-        Day96_StringCompression obj = new Day96_StringCompression();
+        /*Day96_StringCompression obj = new Day96_StringCompression();
         obj.CompressString();
+        Console.ReadLine();*/
+        Day97_BalancedParentheses obj = new Day97_BalancedParentheses();
+        obj.CheckBalanced();
         Console.ReadLine();
     }
 }
