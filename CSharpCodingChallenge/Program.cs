@@ -277,8 +277,11 @@ class Program
         /*Day97_BalancedParentheses obj = new Day97_BalancedParentheses();
         obj.CheckBalanced();
         Console.ReadLine();*/
-        Day98_MinimumWindowSubstring obj = new Day98_MinimumWindowSubstring();
+        /*Day98_MinimumWindowSubstring obj = new Day98_MinimumWindowSubstring();
         obj.FindMinimumWindow();
+        Console.ReadLine();*/
+        Day99_LongestCommonPrefix obj = new Day99_LongestCommonPrefix();
+        obj.FindLongestCommonPrefix();
         Console.ReadLine();
     }
 }
