@@ -280,8 +280,11 @@ class Program
         /*Day98_MinimumWindowSubstring obj = new Day98_MinimumWindowSubstring();
         obj.FindMinimumWindow();
         Console.ReadLine();*/
-        Day99_LongestCommonPrefix obj = new Day99_LongestCommonPrefix();
+        /*Day99_LongestCommonPrefix obj = new Day99_LongestCommonPrefix();
         obj.FindLongestCommonPrefix();
+        Console.ReadLine();*/
+        Day100_EditDistance obj = new Day100_EditDistance();
+        obj.CalculateEditDistance();
         Console.ReadLine();
     }
 }
