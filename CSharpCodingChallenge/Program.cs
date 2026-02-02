@@ -283,8 +283,11 @@ class Program
         /*Day99_LongestCommonPrefix obj = new Day99_LongestCommonPrefix();
         obj.FindLongestCommonPrefix();
         Console.ReadLine();*/
-        Day100_EditDistance obj = new Day100_EditDistance();
+        /*Day100_EditDistance obj = new Day100_EditDistance();
         obj.CalculateEditDistance();
+        Console.ReadLine();*/
+        Day101_MostFrequentElement obj = new Day101_MostFrequentElement();
+        obj.FindMostFrequentElement();
         Console.ReadLine();
     }
 }
