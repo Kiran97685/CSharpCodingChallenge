@@ -286,8 +286,15 @@ class Program
         /*Day100_EditDistance obj = new Day100_EditDistance();
         obj.CalculateEditDistance();
         Console.ReadLine();*/
-        Day101_MostFrequentElement obj = new Day101_MostFrequentElement();
+        /*Day101_MostFrequentElement obj = new Day101_MostFrequentElement();
         obj.FindMostFrequentElement();
+        Console.ReadLine();*/
+        Day102_LRUCache lru = new Day102_LRUCache(2);
+        lru.Put(1, 10);
+        lru.Put(2, 20);
+        Console.WriteLine(lru.Get(1)); // 10
+        lru.Put(3, 30); // Evicts key 2
+        Console.WriteLine(lru.Get(2)); // -1
         Console.ReadLine();
     }
 }
